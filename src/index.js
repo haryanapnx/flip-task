@@ -6,7 +6,6 @@ import "./index.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import dayjs from "dayjs";
 import "dayjs/locale/id";
-// import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 
 const App = () => {
